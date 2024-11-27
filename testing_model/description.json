@@ -1,0 +1,149 @@
+[
+    {
+      "Id": "0",
+      "Name": "Aromatherapy Candle",
+      "Description": "Aromatherapy Candle desc",
+      "Price Range": "IDR",
+      "Purchase Location": "Ubud Market"
+    },
+    {
+      "Id": "1",
+      "Name": "Balinese Topeng",
+      "Description": "Balinese Topeng desc",
+      "Price Range": "IDR",
+      "Purchase Location": "Ubud Market"
+    },
+    {
+      "Id": "2",
+      "Name": "Barong T-shirt",
+      "Description": "The Barong T-Shirt is a unique and stylish garment that features the iconic Barong, a mythical creature symbolizing protection and good spirits in Balinese culture. Crafted from high-quality rayon material, this t-shirt is soft, lightweight, and perfect for casual wear or as a meaningful souvenir from Bali.\n\nAvailable in a variety of sizes to ensure the perfect fit:\n\n- S: Width: 50cm, Length 55cm\n- M: Width: 52cm, Length 58cm\n- L: Width 54cm, Length 64cm\n- XL: Width 55cm, Length 69cm\n- XXL: Width 62cm, Length 75cm\n- XXXL: Width 65cm, Length 77cm\n\nWith a price range of 30,000 IDR to 50,000 IDR, the Barong T-Shirt offers exceptional value and cultural significance. Ideal for those who appreciate Bali's rich traditions and timeless art, this t-shirt is a must-have for your collection or as a thoughtful gift for loved ones.",
+      "Price Range": "30.000 IDR - 50.000 IDR",
+      "Purchase Location": "Ubud Market"
+    },
+    {
+      "Id": "3",
+      "Name": "Beach Hat Bali",
+      "Description": "Beach Hat Bali desc",
+      "Price Range": "IDR",
+      "Purchase Location": "Ubud Market"
+    },
+    {
+      "Id": "4",
+      "Name": "Beach Sarong",
+      "Description": "Beach Sarong desc",
+      "Price Range": "IDR",
+      "Purchase Location": "Ubud Market"
+    },
+    {
+      "Id": "5",
+      "Name": "Beads Bracelet",
+      "Description": "Beads Bracelet desc",
+      "Price Range": "IDR",
+      "Purchase Location": "Ubud Market"
+    },
+    {
+      "Id": "6",
+      "Name": "Bintang T-shirt",
+      "Description": "Bintang T-shirt",
+      "Price Range": "IDR",
+      "Purchase Location": "Ubud Market"
+    },
+    {
+      "Id": "7",
+      "Name": "Coconut Shell Candle Holder",
+      "Description": "The Coconut Shell Candle Holder is a beautiful and eco-friendly decor piece, handcrafted from natural coconut shells. Measuring approximately 15 cm in diameter, this candle holder features intricate Balinese-inspired motifs, showcasing the rich cultural heritage of Bali.\n\nEach design is carefully carved by skilled artisans, resulting in unique patterns that cast mesmerizing shadows when the candle is lit. Available in various traditional designs, it brings a warm and serene ambiance to any space, perfect for relaxation or as a decorative centerpiece.\n\nThis sustainable and artistic candle holder is ideal for those who appreciate Balinese craftsmanship and seek to add a touch of nature and tradition to their home decor",
+      "Price Range": "25.000 IDR - 100.000 IDR",
+      "Purchase Location": "Ubud Market"
+    },
+    {
+      "Id": "8",
+      "Name": "Crochet Bag",
+      "Description": "Crochet Bags are beautifully handcrafted accessories made by local Balinese artisans, showcasing exceptional craftsmanship and creativity. Available in a variety of sizes—small, medium, and large—these bags cater to different needs, whether for a casual day out, a stylish accessory, or a practical carry-all.\n\nEach bag is intricately crocheted with unique designs, blending traditional techniques with modern aesthetics. The diverse patterns and color combinations make every piece one-of-a-kind, reflecting the vibrant culture and artistic heritage of Bali.\n\nLightweight, durable, and eco-friendly, these crochet bags are perfect for fashion-conscious individuals who value handmade products that tell a story. Whether for daily use or special occasions, they are a versatile addition to any wardrobe.",
+      "Price Range": "100.000 IDR - 300.000 IDR",
+      "Purchase Location": "Ubud Market"
+    },
+    {
+      "Id": "9",
+      "Name": "Dream Catcher",
+      "Description": "dream catcher desc",
+      "Price Range": "IDR",
+      "Purchase Location": "Ubud Market"
+    },
+    {
+      "Id": "10",
+      "Name": "Hair Clip",
+      "Description": "hair clip desc",
+      "Price Range": "IDR",
+      "Purchase Location": "Ubud Market"
+    },
+    {
+      "Id": "11",
+      "Name": "Handy Fan",
+      "Description": "Handy Fan is a traditional Balinese accessory, designed for both everyday use and ceremonial purposes. Lightweight and portable, it is perfect for keeping cool on warm days while adding a touch of Bali's cultural charm to your outfit.\n\nThere are two main types of Handy Fans: one is made entirely from wood, providing a sturdy and elegant design, while the other is beautifully coated with prada fabric, a traditional Balinese textile often used in ceremonial dances. The prada-covered fans are commonly used by Balinese dancers during performances, as the fabric adds a touch of sparkle and grace to the fluid movements, symbolizing the island's deep cultural heritage.\n\nThese fans are hand-crafted by skilled Balinese artisans, reflecting Bali's rich artistry. Available in various vibrant colors and intricate designs, the Handy Fan is not only practical for everyday use but also an elegant accessory for special occasions, including traditional dances and ceremonies. Whether for performance or daily wear, it is a beautiful and functional piece of Balinese culture.",
+      "Price Range": "20.000 IDR - 50.000 IDR",
+      "Purchase Location": "Ubud Market"
+    },
+    {
+      "Id": "12",
+      "Name": "Keben (Balinese Woven Box)",
+      "Description": "Keben (Balinese Woven Box) desc",
+      "Price Range": "IDR",
+      "Purchase Location": "Ubud Market"
+    },
+    {
+      "Id": "13",
+      "Name": "Keychain",
+      "Description": "Keychain desc",
+      "Price Range": "IDR",
+      "Purchase Location": "Ubud Market"
+    },
+    {
+      "Id": "14",
+      "Name": "Rattan bag",
+      "Description": "Rattan Bag is a beautifully crafted accessory made by skilled Balinese artisans, reflecting the island's rich tradition of handmade craftsmanship. Available in various sizes, from small to large, these bags are designed to suit different needs and styles, making them versatile for any occasion.\n\nThe Rattan Bag features a combination of natural elegance and durability, with intricate weaving techniques passed down through generations of local artisans. The bags come in a variety of designs, each showcasing the delicate craftsmanship and unique patterns that highlight Bali's cultural heritage.\n\nWhether you're looking for a compact bag for daily use or a spacious one for special occasions, these rattan bags are perfect for adding a touch of sophistication to your wardrobe. Each bag is not just an accessory but a work of art, crafted with love and care by Bali's talented artisans, making it a meaningful addition to any collection.",
+      "Price Range": "70.000 IDR - 300.000 IDR",
+      "Purchase Location": "Ubud Market"
+    },
+    {
+      "Id": "15",
+      "Name": "Silver Earrings",
+      "Description": "Silver Earrings are timeless accessories that combine elegance and versatility. Crafted from high-quality silver by skilled Balinese artisans, these earrings are available in a wide range of stunning designs, from minimalist studs to intricate danglers, catering to both casual and formal occasions.\n\nThe delicate craftsmanship reflects the rich heritage and artistry of Bali, ensuring each piece is unique, durable, and comfortable to wear. The sleek silver finish adds a touch of sophistication to your look, making these earrings perfect as a gift or a personal statement piece.\n\nWith a variety of designs to choose from—featuring intricate patterns, gemstones, or simple classic styles—these earrings are a must-have for those who appreciate quality, artistry, and elegance in their jewelry",
+      "Price Range": "50.000 IDR - 250.000 IDR",
+      "Purchase Location": "Ubud Market"
+    },
+    {
+      "Id": "16",
+      "Name": "Tridatu Bracelet",
+      "Description": "Tridatu Bracelet desc",
+      "Price Range": "IDR",
+      "Purchase Location": "Ubud Market"
+    },
+    {
+      "Id": "17",
+      "Name": "Udeng (Balinese Headgear)",
+      "Description": "Udeng is a traditional Balinese headpiece that holds cultural significance and is commonly worn during religious ceremonies, cultural events, and festive occasions. These headpieces are typically made from cotton, endek, songket, or batik fabric, each chosen for its comfort, durability, and connection to Balinese heritage.\n\nThe cotton Udeng offers a breathable and lightweight option, ideal for everyday use or during ceremonies under the tropical Bali sun. Endek and songket, both intricately woven fabrics, are often chosen for more formal events due to their rich textures and traditional patterns, representing the deep cultural roots of Bali. Batik Udeng features detailed and artistic patterns, often in vibrant colors, adding an aesthetic and symbolic touch to the wearer's appearance.\n\nEach Udeng is skillfully handmade by local Balinese artisans, ensuring that it is not only a functional accessory but also a piece of art representing the island's cultural heritage. The design may vary, but the importance of this headwear in Balinese culture remains timeless, symbolizing respect, spirituality, and unity.",
+      "Price Range": "60.000 IDR - 150.000 IDR",
+      "Purchase Location": "Ubud Market"
+    },
+    {
+      "Id": "18",
+      "Name": "Wall Decoration",
+      "Description": "Wall Decoration collection, crafted from high-quality suar wood, teak wood, and sandalwood, reflects the timeless artistry of Balinese craftsmen. Each piece is intricately designed, combining traditional Balinese techniques with modern aesthetics, making them not only unique but full of meaning.\n\nThe choice of wood materials—suar wood known for its rich texture and durability, teak wood admired for its strength and elegance, and sandalwood valued for its fragrant and luxurious qualities—ensures that these wall decorations are as lasting as they are beautiful.\n\nWith a variety of designs, each wall decoration carries its own symbolic meaning, often inspired by Bali’s rich cultural heritage, nature, and spirituality. Whether it’s a spiritual symbol, a depiction of nature, or abstract artistry, these handcrafted creations add depth and character to any space.\n\nMade with love and care by local Balinese artisans, these pieces bring not only beauty but a sense of Bali’s vibrant culture into your home, offering a unique and meaningful touch to your decor.",
+      "Price Range": "100.000 IDR - 400.000 IDR",
+      "Purchase Location": "Ubud Market"
+    },
+    {
+      "Id": "19",
+      "Name": "Wooden Earrings",
+      "Description": "Wooden Earings desc",
+      "Price Range": "IDR",
+      "Purchase Location": "Ubud Market"
+    },
+    {
+      "Id": "20",
+      "Name": "Woven Bag",
+      "Description": "Wooden Bag desc",
+      "Price Range": "IDR",
+      "Purchase Location": "Ubud Market"
+    }
+   ]
