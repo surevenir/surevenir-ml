@@ -3,147 +3,168 @@
       "Id": "0",
       "Name": "Aromatherapy Candle",
       "Description": "Aromatherapy candles have been used for centuries to create calming atmospheres, combining the therapeutic benefits of essential oils with gentle lighting. In Bali, they are widely used in spas, yoga studios, and homes to promote relaxation, enhance focus, or uplift moods, reflecting the island’s wellness culture.\n\nThese candles come in various forms, including flower-shaped designs or poured into decorative jars. Common scents include lavender for relaxation, lemongrass for freshness, sandalwood for grounding, and ylang-ylang, a signature Balinese aroma. Sizes range from small travel candles (5–7 cm in diameter) to larger jars (10–12 cm). Perfect for stress relief, they also make thoughtful souvenirs, blending functionality with a touch of Bali's tranquil spirit.",
-      "Price Range": "IDR",
-      "Purchase Location": "Ubud Market"
+      "Price Range": "50.000 IDR - 200.000 IDR",
+      "Purchase Location": ["Ubud Art Market", "Sukawati Art Market", "Kumbasari Art Market", "Kuta Art Market"],
+      "Category": ["Home Decor", "Wellness", "Relaxation"]
     },
     {
       "Id": "1",
       "Name": "Balinese Topeng (Balinese Mask)",
       "Description": "Balinese Topeng or Balinese masks have long been integral to traditional ceremonies, especially in dance performances. Originally used in rituals and dance dramas, masks represent various characters and spirits, and over time, they have also become popular souvenirs, displayed as art pieces in homes and galleries.\n\nCommon types of masks include topeng tua, topeng keras, topeng celuluk, topeng penasar, topeng bujuh, and others. These masks are typically made from wood and feature intricate carvings, with vibrant paint and gold accents.\n\nMasks range in size from small (20–30 cm) to larger ones (40–50 cm), with each one depicting unique expressions and traditional patterns. Often, masks are adorned with floral, geometric, or mythological motifs. Today, Balinese masks are prized as souvenirs that reflect the island's deep cultural and spiritual heritage, often displayed as striking decor in homes or offices.",
-      "Price Range": "IDR",
-      "Purchase Location": "Ubud Market"
+      "Price Range": "120.000 IDR - 500.000 IDR",
+      "Purchase Location": ["Ubud Art Market", "Sukawati Art Market", "Kumbasari Art Market", "Kuta Art Market"],
+      "Category": ["Art", "Home Decor", "Sculpture"]
     },
     {
       "Id": "2",
       "Name": "Barong T-shirt",
       "Description": "The Barong T-Shirt is a unique and stylish garment that features the iconic Barong, a mythical creature symbolizing protection and good spirits in Balinese culture. Crafted from high-quality rayon material, this t-shirt is soft, lightweight, and perfect for casual wear or as a meaningful souvenir from Bali.\n\nAvailable in a variety of sizes to ensure the perfect fit:\n\n- S: Width: 50cm, Length 55cm\n- M: Width: 52cm, Length 58cm\n- L: Width 54cm, Length 64cm\n- XL: Width 55cm, Length 69cm\n- XXL: Width 62cm, Length 75cm\n- XXXL: Width 65cm, Length 77cm\n\nWith a price range of 30,000 IDR to 50,000 IDR, the Barong T-Shirt offers exceptional value and cultural significance. Ideal for those who appreciate Bali's rich traditions and timeless art, this t-shirt is a must-have for your collection or as a thoughtful gift for loved ones.",
       "Price Range": "30.000 IDR - 50.000 IDR",
-      "Purchase Location": "Ubud Market"
+      "Purchase Location": ["Ubud Art Market", "Sukawati Art Market", "Kumbasari Art Market", "Kuta Art Market"],
+      "Category": ["Fashion", "Casual Wear", "Beachwear"]
     },
     {
       "Id": "3",
       "Name": "Beach Hat Bali",
       "Description": "Beach hats have long been essential for sun protection, shielding the face and neck from UV rays during outdoor activities. Over time, they have evolved into stylish headwear, widely used as fashion accessories for beach outings and tropical vacations.\n\nTypically, beach hats are wide-brimmed (10–20 cm brim width) to offer maximum coverage. Common shapes include floppy hats, fedoras, and boater hats, crafted from breathable materials like straw, raffia, or cotton. Patterns range from solid colors to tropical prints, often adorned with ribbons, bows, or beads for added flair. Available in various sizes, from 54–60 cm head circumference, beach hats seamlessly blend functionality with style, making them a must-have accessory for sun protection and effortless elegance.",
-      "Price Range": "IDR",
-      "Purchase Location": "Ubud Market"
+      "Price Range": "50.000 IDR - 150.000 IDR",
+      "Purchase Location": ["Ubud Art Market", "Sukawati Art Market", "Kumbasari Art Market", "Kuta Art Market"],
+      "Category": ["Accessories", "Beachwear", "Fashion"]
     },
     {
       "Id": "4",
       "Name": "Kain Pantai Bali (Bali Beach Sarong)",
       "Description": "The Bali Beach Sarong is a versatile piece of cloth traditionally worn by both locals and tourists. Originally used as a practical garment for the beach, temple visits, or as a wrap around the waist, it has evolved into a stylish and functional accessory for various occasions.\n\nMade from lightweight, breathable fabric such as cotton or rayon, Bali sarongs are available in a range of vibrant patterns, including Bali beach scenes, floral designs, animal motifs, mandalas, and tie-dye styles, reflecting the island's rich culture. Typically measuring around 110–120 cm in width and 160–180 cm in length, they can be worn in different ways: as a skirt, dress, or shawl. Popular as a beachwear item, sarongs have also become a beloved souvenir, serving as a symbol of Bali’s laid-back, tropical lifestyle.",
-      "Price Range": "IDR",
-      "Purchase Location": "Ubud Market"
+      "Price Range": "25.000 IDR - 60.000 IDR",
+      "Purchase Location": ["Ubud Art Market", "Sukawati Art Market", "Kumbasari Art Market", "Kuta Art Market"],
+      "Category": ["Accessories", "Beachwear", "Fashion"]
     },
     {
       "Id": "5",
       "Name": "Beads Bracelet",
       "Description": "Beads bracelet, also known as Gelang Manik Bali, feature vibrant patterns and colors, often crafted with a mix of materials such as glass beads, wooden beads, and sea shells. The designs can vary from simple, minimalistic styles to more complex, multi-layered patterns, reflecting Balinese traditions and creativity. The sea shell beads, especially those from the local waters, add a unique touch, with their natural textures and colors making each bracelet distinct.\n\nThese bracelets come in various sizes, typically ranging from small (around 15 cm) to larger sizes (up to 25 cm), allowing for different fits and preferences. The threads used for threading the beads also vary, with options like cotton, nylon, or elastic, offering flexibility and comfort. Gelang Manik Bali's combination of natural materials, intricate designs, and customizable sizes make it a standout piece of Balinese craftsmanship, appreciated for both its aesthetic and cultural value.",
       "Price Range": "10.000 IDR - 35.000 IDR",
-      "Purchase Location": "Ubud Market"
+      "Purchase Location": ["Ubud Art Market", "Sukawati Art Market", "Kumbasari Art Market", "Kuta Art Market"],
+      "Category": ["Accessories", "Jewelry", "Fashion"]
     },
     {
       "Id": "6",
       "Name": "Bintang T-shirt",
       "Description": "Bintang T-shirt, featuring the iconic Bintang symbol, is a popular clothing item in Bali. The Bintang symbol, originally from the popular Bintang beer brand, has become an emblem of Bali’s laid-back atmosphere and global appeal. These shirts come in various patterns, from simple prints to detailed designs, and are made from soft, breathable cotton, perfect for Bali’s warm climate. Available in different styles such as regular t-shirts, fitted shirts, and crop tops, they cater to various fashion preferences.\n\nWidely sold in Bali’s traditional markets, Baju Kaos Bintang comes in sizes ranging from small (S) to large (L). The shirt’s blend of comfort, style, and cultural symbolism makes it a popular souvenir and a staple in local fashion. Its versatility, combining casual wear with a representation of Balinese identity, has helped it become both a local favorite and a global trend.",
       "Price Range": "30.000 IDR - 200.000 IDR",
-      "Purchase Location": "Ubud Market"
+      "Purchase Location": ["Ubud Art Market", "Sukawati Art Market", "Kumbasari Art Market", "Kuta Art Market"],
+      "Category": ["Fashion", "Casual Wear", "Beachwear"]
     },
     {
       "Id": "7",
       "Name": "Coconut Shell Candle Holder",
       "Description": "Coconut shell candle holders are eco-friendly decorations crafted from recycled coconut shells, embracing sustainability and Balinese creativity. The use of coconut shells reflects the island’s resourcefulness, transforming natural waste into beautiful, functional items while promoting environmental awareness.\n\nThese candle holders are predominantly round, following the natural shape of the shell. They come in various sizes, with diameters typically ranging from 8–15 cm. Designs often feature intricate cut-out patterns, such as floral motifs, geometric shapes, or traditional Balinese carvings, which create enchanting light displays when lit.  Primarily used to hold candles for ambient lighting, they also serve as unique home decor items and meaningful souvenirs, combining practicality with a touch of Bali’s natural and artistic heritage.",
       "Price Range": "25.000 IDR - 100.000 IDR",
-      "Purchase Location": "Ubud Market"
+      "Purchase Location": ["Ubud Art Market", "Sukawati Art Market", "Kumbasari Art Market", "Kuta Art Market"],
+      "Category": ["Art", "Home Decor", "Sculpture"]
     },
     {
       "Id": "8",
       "Name": "Crochet Bag",
       "Description": "Tas rajut, or crochet bags, are handcrafted accessories that reflect creativity and tradition, often created by skilled artisans. Originally used for practical purposes like carrying essentials, they have become popular as fashionable and versatile items for daily use or special occasions.\n\nThese bags are typically made from materials like wool, cotton yarn, or synthetic fibers, skillfully crocheted into various patterns such as floral motifs, stripes, or geometric designs. Common shapes include totes, sling bags, pouches, and backpacks. Sizes range from small clutches (20x15 cm) to larger totes (40x30 cm), offering options for different needs. Loved for their durability and unique texture, crochet bags are both functional and stylish, making them timeless and meaningful accessories.",
       "Price Range": "100.000 IDR - 300.000 IDR",
-      "Purchase Location": "Ubud Market"
+      "Purchase Location": ["Ubud Art Market", "Sukawati Art Market", "Kumbasari Art Market", "Kuta Art Market"],
+      "Category": ["Fashion", "Handmade", "Casual Wear"]
     },
     {
       "Id": "9",
       "Name": "Dream Catcher",
       "Description": "The Dream Catcher Bali is a beautifully handcrafted souvenir that blends traditional symbolism with Balinese artistry. Made from a variety of high-quality materials such as natural feathers, beads, and rattan, each dream catcher is meticulously designed to bring both beauty and spiritual meaning to any space. Traditionally, dream catchers are believed to filter out bad dreams, allowing only positive thoughts to pass through, making them a popular choice for those seeking protection and tranquility.\n\nAvailable in a range of sizes and designs, the Dream Catcher Bali offers variations such as:\n- Small: 15 cm (diameter) x 40 cm (height)\n- Medium: 20 cm (diameter) x 50 cm (height)\n- Large: 30 cm (diameter) x 70 cm (height)\n\nEach piece is carefully handwoven and decorated with intricate details, making it not only a functional item but also a stunning decorative piece. Perfect as a souvenir or a thoughtful gift, the Dream Catcher Bali brings a touch of Bali’s rich cultural heritage into any home or space, making it an ideal keepsake for those who want to bring home a piece of the island’s spirit and craftsmanship.",
       "Price Range": "10.000 IDR - 500.000 IDR",
-      "Purchase Location": "Ubud Market"
+      "Purchase Location": ["Ubud Art Market", "Sukawati Art Market", "Kumbasari Art Market", "Kuta Art Market"],
+      "Category": ["Home Decor", "Handmade", "Cultural"]
     },
     {
       "Id": "10",
       "Name": "Hair Claw Clip",
       "Description": "Hair claw clips have a long history as practical and decorative accessories for securing hair, evolving over time to include regional influences. In Bali, these clips are often crafted with vibrant designs, prominently featuring plumeria (frangipani) flowers, a symbol deeply tied to Balinese culture. Plumerias are used in offerings, ceremonies, and daily rituals, representing purity and devotion, making them a popular motif.\n\nAvailable in various shapes and sizes, Balinese claw clips range from small (4–6 cm) for light styling to larger ones (10–12 cm) for thicker hair. Made from materials like resin or wood, they feature colorful floral patterns and traditional Balinese carvings. Primarily used to secure hair, these clips also serve as charming souvenirs, blending practicality with Bali’s cultural artistry.",
-      "Price Range": "IDR",
-      "Purchase Location": "Ubud Market"
+      "Price Range": "10.000 IDR - 30.000 IDR",
+      "Purchase Location": ["Ubud Art Market", "Sukawati Art Market", "Kumbasari Art Market", "Kuta Art Market"],
+      "Category": ["Accessories", "Fashion", "Casual Wear"]
     },
     {
       "Id": "11",
       "Name": "Handy Fan",
       "Description": "Handy Fan is a traditional Balinese accessory, designed for both everyday use and ceremonial purposes. Lightweight and portable, it is perfect for keeping cool on warm days while adding a touch of Bali's cultural charm to your outfit.\n\nThere are two main types of Handy Fans: one is made entirely from wood, providing a sturdy and elegant design, while the other is beautifully coated with prada fabric, a traditional Balinese textile often used in ceremonial dances. The prada-covered fans are commonly used by Balinese dancers during performances, as the fabric adds a touch of sparkle and grace to the fluid movements, symbolizing the island's deep cultural heritage.\n\nThese fans are hand-crafted by skilled Balinese artisans, reflecting Bali's rich artistry. Available in various vibrant colors and intricate designs, the Handy Fan is not only practical for everyday use but also an elegant accessory for special occasions, including traditional dances and ceremonies. Whether for performance or daily wear, it is a beautiful and functional piece of Balinese culture.",
       "Price Range": "20.000 IDR - 50.000 IDR",
-      "Purchase Location": "Ubud Market"
+      "Purchase Location": ["Ubud Art Market", "Sukawati Art Market", "Kumbasari Art Market", "Kuta Art Market"],
+      "Category": ["Fashion", "Accessories", "Cultural"]
     },
     {
       "Id": "12",
       "Name": "Keben (Balinese Woven Box)",
       "Description": "Keben (Balinese Woven Box) is a traditional woven basket made of natural materials such as pandan leaves, rattan, or bamboo. Artwork such as elaborative floral, geometric and symbolic patterns; represents the creativity of balance formed within Balinese art together. Keben is available in many forms; round, square or oval, and can be small (10–15cm), carve a medium 30 cm up to large 40 or more.\n\nThe vessel, Keben that had once used in religious ceremonies to carry offerings that are not confined only in prayers but also various individual or family needs now becomes popular as tool for storage, home decoration style or even a souvenir with a lot of meaning behind it. ",
       "Price Range": "12.000 IDR - 400.000 IDR",
-      "Purchase Location": "Ubud Market"
+      "Purchase Location": ["Ubud Art Market", "Sukawati Art Market", "Kumbasari Art Market", "Kuta Art Market"],
+      "Category": ["Handmade", "Cultural", "Art"]
     },
     {
       "Id": "13",
       "Name": "Keychain",
       "Description": "Balinese keychains, stand out for their cultural charm and intricate craftsmanship. Unlike common keychains, they often feature traditional motifs like Barong, Rangda, or symbolic patterns inspired by Balinese art and mythology. Some are made from natural materials such as wood, bamboo, or shells, while others incorporate vibrant colors and beads for a modern touch.\n\nThese keychains are not just practical accessories but also carry a piece of Bali's artistic identity, making them a popular keepsake. Available in various shapes, including animals, masks, and cultural icons, Gantungan Kunci Bali is a small yet meaningful souvenir that captures the island's spirit.",
       "Price Range": "2.500 IDR - 25.000 IDR",
-      "Purchase Location": "Ubud Market"
+      "Purchase Location": ["Ubud Art Market", "Sukawati Art Market", "Kumbasari Art Market", "Kuta Art Market"],
+      "Category": ["Home Decor", "Accessories", "Art"]
     },
     {
       "Id": "14",
       "Name": "Rattan bag",
       "Description": "Tas Rotan Bali (rattan bag) known for its unique patterns, ranging from geometric to floral designs that reflect Balinese artistry. These bags come in various shapes, including round, oval, square, and rectangular, and can be found in sizes from small (20 cm) to larger options (40 cm or more).\n\nFunctionally, Tas Rotan Bali is a lightweight, durable accessory perfect for everyday use, such as shopping or beach outings. Its combination of traditional weaving techniques and contemporary styles makes it a popular choice for both locals and tourists, blending Balinese culture with modern fashion.",
       "Price Range": "70.000 IDR - 300.000 IDR",
-      "Purchase Location": "Ubud Market"
+      "Purchase Location": ["Ubud Art Market", "Sukawati Art Market", "Kumbasari Art Market", "Kuta Art Market"],
+      "Category": ["Fashion", "Handmade", "Casual Wear"]
     },
     {
       "Id": "15",
       "Name": "Silver Earrings",
       "Description": "Silver earrings in Bali are highly valued for their intricate craftsmanship, with a rich history rooted in the island's long-standing silversmithing tradition, particularly in Celuk village. Silver has become iconic in Bali due to its durability and the skilled artistry of local craftsmen.\n\nThese earrings come in various designs, including simple hoops, studs, dangling designs, and elaborate pieces featuring Balinese symbols, gemstones, and traditional motifs. Popular patterns include floral, geometric, and symbolic representations of Balinese culture. Sizes typically range from small studs (1–2 cm) to larger statement earrings (5–6 cm). Primarily worn as accessories, silver earrings have also become a prized souvenir, reflecting Bali’s cultural heritage and craftsmanship, offering both beauty and significance to those who wear them.",
       "Price Range": "50.000 IDR - 250.000 IDR",
-      "Purchase Location": "Ubud Market"
+      "Purchase Location": ["Ubud Art Market", "Sukawati Art Market", "Kumbasari Art Market", "Kuta Art Market"],
+      "Category": ["Accessories", "Jewelry", "Fashion"]
     },
     {
       "Id": "16",
       "Name": "Tridatu Bracelet",
       "Description": "Gelang Tridatu is a traditional Balinese bracelet featuring three intertwined threads in red, white, and black. Each color holds deep spiritual meaning: red represents Brahma (creation), white symbolizes Shiva (purification), and black signifies Vishnu (preservation), together embodying balance and harmony.\n\n  Originally worn during religious ceremonies as a talisman for protection, it has evolved into a popular accessory. Today, Gelang Tridatu is often combined with beads or small decorative charms, adding a modern twist to its traditional design. These bracelets are now worn by both locals and tourists as a meaningful and stylish piece of Balinese culture.",
       "Price Range": "5.000 IDR - 65.000 IDR",
-      "Purchase Location": "Ubud Market"
+      "Purchase Location": ["Ubud Art Market", "Sukawati Art Market", "Kumbasari Art Market", "Kuta Art Market"],
+      "Category": ["Spiritual", "Cultural", "Wellness"]
     },
     {
       "Id": "17",
       "Name": "Udeng (Traditional Balinese Headband)",
       "Description": "Udeng is a traditional Balinese headband worn by men, symbolizing focus, balance, and spiritual connection. Historically, it has been an essential part of ceremonial attire, representing respect and alignment of thoughts during prayers and rituals.\n\nUdengs come in various styles, from simple plain designs for daily wear to ornate versions featuring intricate motifs for formal or religious occasions. Common patterns include traditional Balinese symbols, floral designs, and geometric shapes reflecting cultural values. Typically sized for head circumferences of 54–60 cm, Udengs are adjustable for a comfortable fit. While its primary purpose is spiritual, the Udeng is now also a popular Balinese souvenir, celebrated for its cultural significance and stylish appeal.",
       "Price Range": "60.000 IDR - 150.000 IDR",
-      "Purchase Location": "Ubud Market"
+      "Purchase Location": ["Ubud Art Market", "Sukawati Art Market", "Kumbasari Art Market", "Kuta Art Market"],
+      "Category": ["Spiritual", "Cultural", "Fashion"]
     },
     {
       "Id": "18",
       "Name": "Wall Decoration",
       "Description": "Wall decorations in Bali are handcrafted art pieces that blend cultural heritage with artistic expression, commonly used to enhance the aesthetic of living spaces. These decorations are often carved from premium woods such as teak, suar, or sandalwood, and feature a variety of designs, from circular or square shapes with intricate carvings in the center to more abstract or natural themes.\n\nCommon patterns include floral motifs, traditional Balinese symbols, or geometric shapes. Sizes typically range from 30 cm to 70 cm in diameter, making them suitable for different wall spaces. Used primarily for home decoration, they have become popular as meaningful souvenirs, symbolizing Bali’s rich cultural traditions and craftsmanship. These pieces are perfect for adding elegance and warmth to any space, from modern homes to meditation rooms.",
       "Price Range": "100.000 IDR - 400.000 IDR",
-      "Purchase Location": "Ubud Market"
+      "Purchase Location": ["Ubud Art Market", "Sukawati Art Market", "Kumbasari Art Market", "Kuta Art Market"],
+      "Category": ["Home Decor", "Art", "Sculpture"]
     },
     {
       "Id": "19",
       "Name": "Balinese Wooden Earrings",
       "Description": "Balinese wooden earrings are handcrafted accessories rooted in tradition, reflecting the island's harmony with nature and culture. Historically, they were inspired by ceremonial adornments symbolizing balance and spirituality.\n\nAvailable in traditional markets, these earrings come in various shapes such as hoops, teardrops, studs, and elongated designs. Sizes range from petite 2–3 cm pieces to bold statement earrings exceeding 7 cm. Crafted from sustainable woods like teak, sandalwood, or coconut shell, they often feature intricate patterns, including floral motifs, geometric carvings, and symbolic designs representing Balinese philosophy. Blending cultural heritage with modern fashion, Balinese wooden earrings are prized as eco-friendly accessories, serving as meaningful souvenirs or elegant additions to contemporary wardrobes.",
-      "Price Range": "IDR",
-      "Purchase Location": "Ubud Market"
+      "Price Range": "25.000 IDR - 75.000 IDR",
+      "Purchase Location": ["Ubud Art Market", "Sukawati Art Market", "Kumbasari Art Market", "Kuta Art Market"],
+      "Category": ["Accessories", "Jewelry", "Fashion"]
     },
     {
       "Id": "20",
       "Name": "Woven Bag",
       "Description": "Woven bags, or Tas Anyaman, have long been a part of Bali’s daily life, initially used for carrying goods, food, or personal items. Traditionally made from natural materials like rattan, pandan leaves, or bamboo, these bags reflect the island's connection to nature and craftsmanship.\n\nThese bags come in various shapes, such as totes, clutches, and shoulder bags. Common patterns include simple weaves, checkerboard designs, and intricate geometric or floral motifs. Typically, sizes range from small handbags (20x15 cm) to larger market bags (40x30 cm), offering practical storage for everyday use. Initially functional, woven bags have become popular souvenirs, celebrated for their rustic charm and eco-friendly appeal, often used as stylish accessories or unique home decor items.",
-      "Price Range": "IDR",
-      "Purchase Location": "Ubud Market"
+      "Price Range": "60.000 IDR - 300.000 IDR",
+      "Purchase Location": ["Ubud Art Market", "Sukawati Art Market", "Kumbasari Art Market", "Kuta Art Market"],
+      "Category": ["Fashion", "Handmade", "Casual Wear"]
     }
    ]
