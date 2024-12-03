@@ -37,13 +37,16 @@ Data processing involves preparing and transforming raw data into a format suita
 - Architecture: Convolutional Neural Network (CNN) with Transfer Learning
 - Algorithm: MobileNetV2
 - Framework: TensorFlow
+
 📊 Training Results:
 - Accuracy:
 - Loss:
+
 🚀 Steps Taken:
 - Model selection and architecture definition.
 - Model training with hyperparameter tuning.
 - Evaluation using metrics like accuracy, confusion matrix, and classification report.
+
 📌 Tools & Environment:
 - 🖥️ IDE: Visual Studio Code (VS Code)
 - 🐍 Programming Language: Python
