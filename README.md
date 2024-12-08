@@ -33,6 +33,8 @@ Data processing involves preparing and transforming raw data into a format suita
 3. 📂 Dataset Splitting: 80% for training and 20% for validation
 
 ## 🤖 Machine Learning Model
+### Image Classification Model
+
 🛠️ Model Overview:
 - Architecture: Convolutional Neural Network (CNN) with Transfer Learning
 - Algorithm: MobileNetV2
@@ -51,6 +53,8 @@ Data processing involves preparing and transforming raw data into a format suita
 - 🖥️ IDE: Visual Studio Code (VS Code)
 - 🐍 Programming Language: Python
 - 📦 Libraries and Frameworks: TensorFlow, Keras, Pandas, Matplotlib, Seaborn, Scikit-learn
+
+### ChatBot Gen AI Model
 
 ## 🚀 Model Deployment
 Once the model is trained and ready, we use TensorFlow.js to convert the model into a JavaScript-compatible format.o
