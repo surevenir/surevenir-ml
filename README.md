@@ -15,6 +15,8 @@ Bali is a paradise filled with unique handmade crafts. However, tourists often f
 🎯 Goal: Improve the shopping experience for tourists while boosting the local economy and protecting cultural heritage.
 
 ## 🔍 EDA & Data Preparation
+The dataset contains 6,690 images spanning 21 souvenir classes (e.g., Aromatherapy Candle, Balinese Topeng).The dataset contains 6,690 images spanning 21 souvenir classes (e.g., Aromatherapy Candle, Balinese Topeng).
+
 Steps for Exploratory Data Analysis (EDA):
 - 🔎 Dataset Inspection: Analyze class distributions and detect outliers.
 - 📊 Visualization: Create distribution charts and explore feature relationships.
@@ -41,8 +43,8 @@ Data processing involves preparing and transforming raw data into a format suita
 - Framework: TensorFlow
 
 📊 Training Results:
-- Accuracy:
-- Loss:
+- Accuracy: 96.12%
+- Loss: 11%
 
 🚀 Steps Taken:
 - Model selection and architecture definition.
@@ -55,7 +57,13 @@ Data processing involves preparing and transforming raw data into a format suita
 - 📦 Libraries and Frameworks: TensorFlow, Keras, Pandas, Matplotlib, Seaborn, Scikit-learn
 
 ### ChatBot Gen AI Model
+The ChatBot is powered by a Generative AI model deployed on Vertex AI, designed to enhance the user experience with personalized interactions.
+
+Key features:
+- **Souvenir Descriptions:** Provides detailed explanations about souvenirs, including their cultural significance and uses.
+- **Fair Price Range Estimates:** Suggests price ranges based on fair pricing data from trusted sellers, ensuring users avoid overpaying.
+- **Store Locator:** Recommends authentic stores or locations to purchase souvenirs.
 
 ## 🚀 Model Deployment
-Once the model is trained and ready, we use TensorFlow.js to convert the model into a JavaScript-compatible format.o
+Once the model is trained and ready, it is saved in the .h5 format for deployment. This format ensures compatibility and ease of integration into the Surevenir application. The saved model is then loaded and utilized to power the souvenir recognition feature within the app.
  
