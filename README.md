@@ -11,7 +11,7 @@ The Surevenir Machine Learning Model is part of an application designed to help 
 Bali is a paradise filled with unique handmade crafts. However, tourists often face challenges such as being scammed by overpriced or counterfeit souvenirs and finding reliable information on where to buy authentic items. This project aims to:
 - Assist tourists in identifying genuine Balinese souvenirs with ease.
 - Provide accurate, detailed information, including recommended places to purchase authentic souvenirs.
--  Support local artisans by promoting their genuine products and fostering trust in the market.
+- Support local artisans by promoting their genuine products and fostering trust in the market.
 🎯 Goal: Improve the shopping experience for tourists while boosting the local economy and protecting cultural heritage.
 
 ## 🔍 EDA & Data Preparation
@@ -40,7 +40,6 @@ Data processing involves preparing and transforming raw data into a format suita
 🛠️ Model Overview:
 - Architecture: Convolutional Neural Network (CNN) with Transfer Learning
 - Algorithm: MobileNetV2
-- Framework: TensorFlow
 
 📊 Training Results:
 - Accuracy: 96.12%
@@ -54,7 +53,7 @@ Data processing involves preparing and transforming raw data into a format suita
 📌 Tools & Environment:
 - 🖥️ IDE: Visual Studio Code (VS Code)
 - 🐍 Programming Language: Python
-- 📦 Libraries and Frameworks: TensorFlow, Keras, Pandas, Matplotlib, Seaborn, Scikit-learn
+- 📦 Libraries and Framewor: TensorFlow, Keras, Pandas, Numpy, Matplotlib, Scikit-learn
 
 ### ChatBot Gen AI Model
 The ChatBot is powered by a Generative AI model deployed on Vertex AI, designed to enhance the user experience with personalized interactions.
