@@ -15,7 +15,7 @@ Bali is a paradise filled with unique handmade crafts. However, tourists often f
 🎯 Goal: Improve the shopping experience for tourists while boosting the local economy and protecting cultural heritage.
 
 ## 🔍 EDA & Data Preparation
-The dataset contains 6,690 images spanning 21 souvenir classes (e.g., Aromatherapy Candle, Balinese Topeng).The dataset contains 6,690 images spanning 21 souvenir classes (e.g., Aromatherapy Candle, Balinese Topeng).
+The dataset contains 6,690 images spanning 21 souvenir classes (e.g., Aromatherapy Candle, Balinese Topeng).
 
 Steps for Exploratory Data Analysis (EDA):
 - 🔎 Dataset Inspection: Analyze class distributions and detect outliers.
