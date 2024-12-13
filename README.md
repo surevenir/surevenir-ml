@@ -42,7 +42,7 @@ Data processing involves preparing and transforming raw data into a format suita
 - Algorithm: MobileNetV2
 
 📊 Training Results:
-- Accuracy: 96.12%
+- Accuracy: 96.19%
 - Loss: 11%
 
 🚀 Steps Taken:
