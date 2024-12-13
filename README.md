@@ -35,7 +35,7 @@ Data processing involves preparing and transforming raw data into a format suita
    - Zooming: Apply zoom transformations within a range of [0.8, 1.2].
    - Translation: Shift images up to 20% of their width and height.
 3. 📂 Dataset Splitting: 80% for training and 20% for validation
-4. 
+   
    ![image](https://github.com/user-attachments/assets/874f5374-9670-4f30-b4a4-47b3fb17f6c1)
 
 
