@@ -17,6 +17,8 @@ Bali is a paradise filled with unique handmade crafts. However, tourists often f
 ## 🔍 EDA & Data Preparation
 The dataset contains 6,690 images spanning 21 souvenir classes (e.g., Aromatherapy Candle, Balinese Topeng).
 
+![image](https://github.com/user-attachments/assets/0fef80a2-c076-4e0b-b048-48760fffceeb)
+
 Steps for Exploratory Data Analysis (EDA):
 - 🔎 Dataset Inspection: Analyze class distributions and detect outliers.
 - 📊 Visualization: Create distribution charts and explore feature relationships.
@@ -33,6 +35,9 @@ Data processing involves preparing and transforming raw data into a format suita
    - Zooming: Apply zoom transformations within a range of [0.8, 1.2].
    - Translation: Shift images up to 20% of their width and height.
 3. 📂 Dataset Splitting: 80% for training and 20% for validation
+4. 
+   ![image](https://github.com/user-attachments/assets/874f5374-9670-4f30-b4a4-47b3fb17f6c1)
+
 
 ## 🤖 Machine Learning Model
 ### Image Classification Model
@@ -42,6 +47,9 @@ Data processing involves preparing and transforming raw data into a format suita
 - Algorithm: MobileNetV2
 
 📊 Training Results:
+
+![image](https://github.com/user-attachments/assets/76a9f591-2be0-4523-8232-e7908c31f50d)
+
 - Training Accuracy: 96.92%
 - Training Loss: 10.43%
 - Validation Accuracy: 96.19%
